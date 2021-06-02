@@ -16,3 +16,6 @@ Flutter framwork is used for the frontend of the app and pure dart code is used 
 - User can delete all customers and their bills with a single tap
 
 ## Mockups
+![Main Page](https://github.com/FaazAbidi/FazleRabbi/blob/master/mockups/1.jpg)
+![Profile Page](https://github.com/FaazAbidi/FazleRabbi/blob/master/mockups/2.jpg)
+![Calender Page](https://github.com/FaazAbidi/FazleRabbi/blob/master/mockups/3.jpg)
