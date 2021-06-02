@@ -21,4 +21,4 @@ Flutter framwork is used for the frontend of the app and pure dart code is used 
 ![Calender Page](https://github.com/FaazAbidi/FazleRabbi/blob/master/mockups/3.jpg)
 
 ## Download APK for Android
-[APK download](https://file.io/4fmq7lNCJ1Mn)
+[APK download](https://file.io/LMv4b8b6sfZl)
