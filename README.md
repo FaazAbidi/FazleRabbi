@@ -1,16 +1,5 @@
-# fazle_rabbi
+# Fazle Rabbi
 
-A new Flutter project.
+Fazle Rabbbi is Flutter based mobile app for both iOS and android platforms. The app is specifically built for a local shopkeeper who wants to automate his receipt system. This app does a phenomenal job in doing that.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter framwork is used for the frontend of the app and pure dart code is used for the backend. 
